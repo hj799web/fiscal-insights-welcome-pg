@@ -81,7 +81,7 @@
         <font-awesome-icon icon="rocket" /> Try it now and see where your tax dollars go!
       </p>
 
-      <router-link to="/" class="cta-button">Use the Tax Calculator</router-link>
+      <a href="https://fiscal-insights.ca/" class="cta-button">Use the Tax Calculator</a>
     </div>
   </section>
 </template>
